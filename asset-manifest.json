@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NBA/static/css/main.e8c2addb.css",
+    "main.js": "/NBA/static/js/main.030d472c.js",
+    "static/js/453.eb3e1171.chunk.js": "/NBA/static/js/453.eb3e1171.chunk.js",
+    "index.html": "/NBA/index.html",
+    "main.e8c2addb.css.map": "/NBA/static/css/main.e8c2addb.css.map",
+    "main.030d472c.js.map": "/NBA/static/js/main.030d472c.js.map",
+    "453.eb3e1171.chunk.js.map": "/NBA/static/js/453.eb3e1171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c2addb.css",
+    "static/js/main.030d472c.js"
+  ]
+}
